@@ -1,0 +1,12 @@
+{
+    "title": "asd",
+    "description": "asdasda",
+    "author": "asd",
+    "authorEmail": "asd",
+    "authorUrl": "asd",
+    "language": "zh-hans",
+    "root": "docs",
+    "plugins": [
+        "expandable-chapters"
+    ]
+}
